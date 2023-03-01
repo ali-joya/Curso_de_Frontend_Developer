@@ -1,0 +1,28 @@
+Los archivos creados bajo el control de versiones de GIT y GITHUB
+por lo cual, en el historial de los commit se puede revisar la
+evolución de un documento a travez del curso.
+
+
+Si estas revisando el repositorio desde GITHUB
+
+puedes seleccionar el archivo
+ubicar la opcion History
+podras ver los commit realizados y subidos al repositorio
+
+el nombre de cada commit representa un punto de referencia
+segun el documento de NOTAS del curso
+
+
+
+
+Si clonaste el repositorio GIT
+
+para revisar la evolucion de del archivo programado
+se puede usar los siguientes comandos en GIT
+
+Comando 1 : git log "nombre archivo"
+para revisar todos los commit (cambios realizados)
+
+comando 2 : git checkout "codigo commit" "nombre de archivo"
+para ver el estado del archivo programado 
+SIN  ALTERAR LOS DATOS DE FORMA PERMANENTE
